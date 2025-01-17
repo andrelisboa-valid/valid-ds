@@ -1,0 +1,90 @@
+{
+  "color": {
+    "primary": {
+      "n900": {
+        "value": "{color.blue.n900}",
+        "type": "color"
+      },
+      "n800": {
+        "value": "{color.blue.n800}",
+        "type": "color"
+      },
+      "n400": {
+        "value": "{color.blue.n400}",
+        "type": "color"
+      },
+      "n100": {
+        "value": "{color.blue.n100}",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "n900": {
+        "value": "{color.green.n900}",
+        "type": "color"
+      },
+      "n800": {
+        "value": "{color.green.n800}",
+        "type": "color"
+      },
+      "n400": {
+        "value": "{color.green.n400}",
+        "type": "color"
+      },
+      "n100": {
+        "value": "{color.green.n100}",
+        "type": "color"
+      }
+    },
+    "tertiary": {
+      "n900": {
+        "value": "{color.red.n900}",
+        "type": "color"
+      },
+      "n800": {
+        "value": "{color.red.n800}",
+        "type": "color"
+      },
+      "n400": {
+        "value": "{color.red.n400}",
+        "type": "color"
+      },
+      "n100": {
+        "value": "{color.red.n100}",
+        "type": "color"
+      }
+    }
+  },
+  "images": {
+    "logo": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/clientLogo/cofen.png",
+      "type": "asset"
+    },
+    "flag": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/flag/cofen.png",
+      "type": "asset"
+    },
+    "coatOfArms": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/coatOfArms/cofen.png",
+      "type": "asset"
+    },
+    "secretary": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/secretary/cofen.png",
+      "type": "asset"
+    }
+  },
+  "text": {
+    "dataCorte": {
+      "value": "janeiro/2017",
+      "type": "text"
+    },
+    "carteiraThemes": {
+      "value": "CIM - Médica / e-CPM",
+      "type": "text"
+    }
+  },
+  "showSegundavia": {
+    "value": "true",
+    "type": "boolean"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "color": {
+    "primary": {
+      "n900": {
+        "value": "{color.blue.n900}",
+        "type": "color"
+      },
+      "n800": {
+        "value": "{color.blue.n800}",
+        "type": "color"
+      },
+      "n400": {
+        "value": "{color.blue.n400}",
+        "type": "color"
+      },
+      "n100": {
+        "value": "{color.blue.n100}",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "n900": {
+        "value": "{color.orange.n900}",
+        "type": "color"
+      },
+      "n800": {
+        "value": "{color.orange.n800}",
+        "type": "color"
+      },
+      "n400": {
+        "value": "{color.orange.n400}",
+        "type": "color"
+      },
+      "n100": {
+        "value": "{color.orange.n100}",
+        "type": "color"
+      }
+    },
+    "tertiary": {
+      "n900": {
+        "value": "{color.green.n900}",
+        "type": "color"
+      },
+      "n800": {
+        "value": "{color.green.n800}",
+        "type": "color"
+      },
+      "n400": {
+        "value": "{color.green.n400}",
+        "type": "color"
+      },
+      "n100": {
+        "value": "{color.green.n100}",
+        "type": "color"
+      }
+    }
+  },
+  "images": {
+    "logo": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/clientLogo/distritofederal.png",
+      "type": "asset"
+    },
+    "flag": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/flag/distritofederal.png",
+      "type": "asset"
+    },
+    "coatOfArms": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/coatOfArms/distritofederal.png",
+      "type": "asset"
+    },
+    "secretary": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/secretary/distritofederal.png",
+      "type": "asset"
+    }
+  },
+  "text": {
+    "dataCorte": {
+      "value": "outubro/2021",
+      "type": "text"
+    },
+    "carteiraThemes": {
+      "value": "{text.carteira}",
+      "type": "text"
+    }
+  },
+  "showSegundavia": {
+    "value": "false",
+    "type": "boolean"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "color": {
+    "primary": {
+      "n900": {
+        "value": "{color.black.n900}",
+        "type": "color"
+      },
+      "n800": {
+        "value": "{color.black.n800}",
+        "type": "color"
+      },
+      "n400": {
+        "value": "{color.black.n400}",
+        "type": "color"
+      },
+      "n100": {
+        "value": "{color.black.n100}",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "n900": {
+        "value": "{color.red.n900}",
+        "type": "color"
+      },
+      "n800": {
+        "value": "{color.red.n800}",
+        "type": "color"
+      },
+      "n400": {
+        "value": "{color.red.n400}",
+        "type": "color"
+      },
+      "n100": {
+        "value": "{color.red.n100}",
+        "type": "color"
+      }
+    },
+    "tertiary": {
+      "n900": {
+        "value": "{color.purple.n900}",
+        "type": "color"
+      },
+      "n800": {
+        "value": "{color.purple.n800}",
+        "type": "color"
+      },
+      "n400": {
+        "value": "{color.purple.n400}",
+        "type": "color"
+      },
+      "n100": {
+        "value": "{color.purple.n100}",
+        "type": "color"
+      }
+    }
+  },
+  "images": {
+    "logo": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/clientLogo/valid.png",
+      "type": "asset"
+    },
+    "flag": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/flag/valid.png",
+      "type": "asset"
+    },
+    "coatOfArms": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/coatOfArms/default.png",
+      "type": "asset"
+    },
+    "secretary": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/secretary/default.png",
+      "type": "asset"
+    }
+  },
+  "text": {
+    "dataCorte": {
+      "value": "maio/2017",
+      "type": "text"
+    },
+    "carteiraThemes": {
+      "value": "{text.carteira}",
+      "type": "text"
+    }
+  },
+  "showSegundavia": {
+    "value": "false",
+    "type": "boolean"
+  }
+}

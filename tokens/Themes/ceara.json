@@ -1,0 +1,90 @@
+{
+  "color": {
+    "primary": {
+      "n900": {
+        "value": "{color.green.n900}",
+        "type": "color"
+      },
+      "n800": {
+        "value": "{color.green.n800}",
+        "type": "color"
+      },
+      "n400": {
+        "value": "{color.green.n400}",
+        "type": "color"
+      },
+      "n100": {
+        "value": "{color.green.n100}",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "n900": {
+        "value": "{color.brown.n900}",
+        "type": "color"
+      },
+      "n800": {
+        "value": "{color.brown.n800}",
+        "type": "color"
+      },
+      "n400": {
+        "value": "{color.brown.n400}",
+        "type": "color"
+      },
+      "n100": {
+        "value": "{color.brown.n100}",
+        "type": "color"
+      }
+    },
+    "tertiary": {
+      "n900": {
+        "value": "{color.blue.n900}",
+        "type": "color"
+      },
+      "n800": {
+        "value": "{color.blue.n800}",
+        "type": "color"
+      },
+      "n400": {
+        "value": "{color.blue.n400}",
+        "type": "color"
+      },
+      "n100": {
+        "value": "{color.blue.n100}",
+        "type": "color"
+      }
+    }
+  },
+  "images": {
+    "logo": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/clientLogo/ceara.png",
+      "type": "asset"
+    },
+    "flag": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/flag/ceara.png",
+      "type": "asset"
+    },
+    "coatOfArms": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/coatOfArms/ceara.png",
+      "type": "asset"
+    },
+    "secretary": {
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/secretary/ceara.png",
+      "type": "asset"
+    }
+  },
+  "text": {
+    "dataCorte": {
+      "value": "maio/2017",
+      "type": "text"
+    },
+    "carteiraThemes": {
+      "value": "{text.carteira}",
+      "type": "text"
+    }
+  },
+  "showSegundavia": {
+    "value": "false",
+    "type": "boolean"
+  }
+}

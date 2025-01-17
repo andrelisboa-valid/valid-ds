@@ -1,0 +1,84 @@
+[
+  {
+    "id": "60ecffb7ce5e7fb09db8a0523db4662c38fba674",
+    "name": "default",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantics": "enabled",
+      "global": "source",
+      "Themes/default": "source"
+    },
+    "group": "themes",
+    "$figmaVariableReferences": {}
+  },
+  {
+    "id": "a844b7d74de0c1a93dff79ac25f47d98387f6b93",
+    "name": "ceara",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantics": "enabled",
+      "global": "source",
+      "Themes/ceara": "source"
+    },
+    "group": "themes",
+    "$figmaVariableReferences": {}
+  },
+  {
+    "id": "2c9487faee0ae5f5fec9beea07676eecc274286b",
+    "name": "rioGrandeDoSul",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantics": "enabled",
+      "global": "source",
+      "Themes/rioGrandeDoSul": "source"
+    },
+    "group": "themes",
+    "$figmaVariableReferences": {}
+  },
+  {
+    "id": "0bc2982582b9cd8461f5e1557a9215bc1e96ccef",
+    "name": "distritoFederal",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantics": "enabled",
+      "global": "source",
+      "Themes/distritoFederal": "source"
+    },
+    "group": "themes",
+    "$figmaVariableReferences": {}
+  },
+  {
+    "id": "724dce7098abfb8223cac127726954033c664aa4",
+    "name": "cofen",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantics": "enabled",
+      "global": "source",
+      "Themes/cofen": "source"
+    },
+    "group": "themes",
+    "$figmaVariableReferences": {}
+  },
+  {
+    "id": "c7f3707d75b9b44a767005b753c47c1e97f8b9cf",
+    "name": "minasGerais",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "source",
+      "semantics": "enabled",
+      "Themes/minasGerais": "source"
+    },
+    "group": "themes"
+  },
+  {
+    "id": "5d8bcb8c864c6d15d52f174a861c6d653aeac3fc",
+    "name": "validId",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "semantics": "enabled",
+      "Themes/validId": "source"
+    },
+    "group": "themes"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "Themes/default",
+    "Themes/ceara",
+    "Themes/cofen",
+    "Themes/distritoFederal",
+    "Themes/minasGerais",
+    "Themes/rioGrandeDoSul",
+    "Themes/validId",
+    "semantics"
+  ]
+}
