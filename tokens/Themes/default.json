@@ -57,7 +57,7 @@
   },
   "images": {
     "logo": {
-      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/clientLogo/defaultt.png",
+      "value": "https://raw.githubusercontent.com/andrelisboa-valid/valid-ds/refs/heads/main/images/clientLogo/default.png",
       "type": "asset"
     },
     "flag": {
